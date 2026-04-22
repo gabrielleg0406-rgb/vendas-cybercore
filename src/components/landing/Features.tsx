@@ -3,33 +3,33 @@ import { Bot, Code2, Layers, Palette, Rocket, ShieldCheck } from "lucide-react";
 const features = [
   {
     icon: Rocket,
-    title: "Lance em horas",
-    desc: "Setup feito. Auth, payments, dashboard, landing — tudo pronto pra você focar no produto.",
+    title: "Feature one",
+    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt.",
   },
   {
     icon: Bot,
-    title: "AI-first",
-    desc: "Templates pensados para fluir com Cursor, Lovable e Claude. Vibe coding na veia.",
+    title: "Feature two",
+    desc: "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.",
   },
   {
     icon: Layers,
-    title: "Stack premium",
-    desc: "React, Vite, TypeScript, Tailwind, shadcn/ui. O que os melhores estão usando hoje.",
+    title: "Feature three",
+    desc: "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
   },
   {
     icon: Palette,
-    title: "Design system pronto",
-    desc: "Tokens, dark mode, animações e componentes. Beleza desde o primeiro commit.",
+    title: "Feature four",
+    desc: "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.",
   },
   {
     icon: ShieldCheck,
-    title: "Production-ready",
-    desc: "RLS, validações, segurança e melhores práticas. Sem gambiarra que volta pra te assombrar.",
+    title: "Feature five",
+    desc: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque.",
   },
   {
     icon: Code2,
-    title: "Código limpo",
-    desc: "Arquitetura escalável, componentes atômicos, fácil de modificar e expandir.",
+    title: "Feature six",
+    desc: "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
   },
 ];
 
@@ -38,11 +38,11 @@ const Features = () => {
     <section id="features" className="relative py-32">
       <div className="container-tight">
         <div className="mx-auto max-w-2xl text-center">
-          <div className="badge-pill">Por que VibeKit</div>
+          <div className="badge-pill">Section label</div>
           <h2 className="mt-6 font-display text-4xl font-bold tracking-tight md:text-5xl">
-            <span className="text-gradient">Tudo que você precisa.</span>
+            <span className="text-gradient">Lorem ipsum dolor.</span>
             <br />
-            <span className="text-muted-foreground">Nada do que não precisa.</span>
+            <span className="text-muted-foreground">Sit amet consectetur.</span>
           </h2>
         </div>
 

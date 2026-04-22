@@ -8,10 +8,10 @@ const Footer = () => {
           <span className="grid h-7 w-7 place-items-center rounded-lg bg-gradient-cta text-primary-foreground">
             <Zap className="h-3.5 w-3.5" strokeWidth={2.5} />
           </span>
-          VibeKit
+          Lorem
         </div>
         <p className="text-sm text-muted-foreground">
-          © {new Date().getFullYear()} VibeKit · Built for Vibecoders ⚡
+          © {new Date().getFullYear()} Lorem · All rights reserved
         </p>
       </div>
     </footer>

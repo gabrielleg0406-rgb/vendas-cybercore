@@ -1,16 +1,16 @@
 const stack = [
-  { name: "React 18", desc: "UI library" },
-  { name: "Vite 5", desc: "Build tool" },
-  { name: "TypeScript", desc: "Type safety" },
-  { name: "Tailwind v3", desc: "Styling" },
-  { name: "shadcn/ui", desc: "Components" },
-  { name: "Framer Motion", desc: "Animations" },
-  { name: "Lovable Cloud", desc: "Backend" },
-  { name: "Lucide Icons", desc: "Iconography" },
-  { name: "React Router", desc: "Routing" },
-  { name: "TanStack Query", desc: "Data fetching" },
-  { name: "Zod", desc: "Validation" },
-  { name: "Stripe-ready", desc: "Payments" },
+  { name: "Item one", desc: "Category" },
+  { name: "Item two", desc: "Category" },
+  { name: "Item three", desc: "Category" },
+  { name: "Item four", desc: "Category" },
+  { name: "Item five", desc: "Category" },
+  { name: "Item six", desc: "Category" },
+  { name: "Item seven", desc: "Category" },
+  { name: "Item eight", desc: "Category" },
+  { name: "Item nine", desc: "Category" },
+  { name: "Item ten", desc: "Category" },
+  { name: "Item eleven", desc: "Category" },
+  { name: "Item twelve", desc: "Category" },
 ];
 
 const Stack = () => {
@@ -19,13 +19,13 @@ const Stack = () => {
       <div className="absolute inset-0 bg-gradient-hero opacity-50" aria-hidden />
       <div className="container-tight relative">
         <div className="mx-auto max-w-2xl text-center">
-          <div className="badge-pill">A Stack</div>
+          <div className="badge-pill">Section label</div>
           <h2 className="mt-6 font-display text-4xl font-bold tracking-tight md:text-5xl">
-            <span className="text-gradient-cyber">Stack pronta.</span>{" "}
-            <span className="text-muted-foreground">Sem dor de cabeça.</span>
+            <span className="text-gradient-cyber">Lorem ipsum.</span>{" "}
+            <span className="text-muted-foreground">Dolor sit amet.</span>
           </h2>
           <p className="mt-5 text-lg text-muted-foreground">
-            As mesmas ferramentas que os melhores Vibecoders usam, configuradas e prontas para você.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
           </p>
         </div>
 

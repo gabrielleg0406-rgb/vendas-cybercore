@@ -15,7 +15,7 @@ const Navbar = () => {
           <span className="grid h-8 w-8 place-items-center rounded-lg bg-gradient-cta text-primary-foreground shadow-glow-primary">
             <Zap className="h-4 w-4" strokeWidth={2.5} />
           </span>
-          <span>VibeKit</span>
+          <span>Lorem</span>
         </a>
 
         <nav className="hidden items-center gap-8 md:flex">
@@ -34,7 +34,7 @@ const Navbar = () => {
           href="#pricing"
           className="rounded-full border border-primary/40 bg-primary/10 px-4 py-2 text-xs font-semibold uppercase tracking-wider text-primary transition-all hover:bg-primary/20 hover:shadow-glow-primary"
         >
-          Get VibeKit
+          Get Started
         </a>
       </div>
     </header>
