@@ -7,28 +7,28 @@ import {
 
 const faqs = [
   {
-    q: "O que exatamente eu recebo?",
-    a: "Acesso ao repositório completo do VibeKit com +15 templates, design system, componentes premium, integrações de auth/database/payments e documentação. Tudo pronto pra clonar e começar a vibecodar.",
+    q: "Lorem ipsum dolor sit amet?",
+    a: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   },
   {
-    q: "Preciso saber programar?",
-    a: "O VibeKit foi feito para Vibecoders — pessoas que constroem com IA (Cursor, Lovable, Claude). Conhecimento básico de React ajuda, mas a stack foi pensada para fluir bem com IA generativa.",
+    q: "Consectetur adipiscing elit?",
+    a: "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
   },
   {
-    q: "Posso usar em projetos comerciais?",
-    a: "Sim. Licença para uso ilimitado em projetos próprios e de clientes. Sem royalties.",
+    q: "Sed do eiusmod tempor?",
+    a: "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
   },
   {
-    q: "Recebo atualizações?",
-    a: "Sim, atualizações vitalícias incluídas. Novos templates, melhorias e correções entram no seu acesso automaticamente.",
+    q: "Incididunt ut labore et dolore?",
+    a: "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
   },
   {
-    q: "E se não gostar?",
-    a: "Garantia incondicional de 7 dias. Se não fizer sentido pra você, devolvemos 100% do valor.",
+    q: "Ut enim ad minim veniam?",
+    a: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
   },
   {
-    q: "Esse preço é por quanto tempo?",
-    a: "R$97 é o preço de lançamento e vai subir em breve para R$297. Garantindo agora você trava esse valor para sempre.",
+    q: "Quis nostrud exercitation?",
+    a: "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores.",
   },
 ];
 
@@ -39,7 +39,7 @@ const FAQ = () => {
         <div className="mx-auto max-w-2xl text-center">
           <div className="badge-pill">FAQ</div>
           <h2 className="mt-6 font-display text-4xl font-bold tracking-tight md:text-5xl">
-            <span className="text-gradient">Perguntas frequentes</span>
+            <span className="text-gradient">Lorem ipsum dolor</span>
           </h2>
         </div>
 

@@ -24,20 +24,20 @@ const FinalCTA = () => {
 
           <div className="relative text-center">
             <h2 className="mx-auto max-w-3xl font-display text-4xl font-bold leading-tight tracking-tight md:text-6xl">
-              <span className="text-gradient">Pare de começar do zero.</span>
+              <span className="text-gradient">Lorem ipsum dolor.</span>
               <br />
-              <span className="text-gradient-cyber">Comece a lançar.</span>
+              <span className="text-gradient-cyber">Sit amet consectetur.</span>
             </h2>
             <p className="mx-auto mt-6 max-w-xl text-lg text-muted-foreground">
-              Junte-se aos Vibecoders que estão enviando produtos de verdade —
-              em horas, não semanas.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+              eiusmod tempor incididunt.
             </p>
 
             <a
               href="#pricing"
               className="btn-glow group mt-10 inline-flex items-center gap-2 rounded-full bg-gradient-cta px-10 py-4 text-base font-semibold text-primary-foreground"
             >
-              Garantir por R$97 hoje
+              Call to action
               <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
             </a>
           </div>
